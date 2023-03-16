@@ -5,8 +5,8 @@ using UnityEngine.InputSystem;
 
 public class playerController : MonoBehaviour
 {
-    public float speed = 1;
-    public string saludo = "hola";
+    public float speed = 2;
+    public string saludo = "pelota";
 
     private Rigidbody rb;
 
@@ -32,7 +32,7 @@ public class playerController : MonoBehaviour
         movementX = movementVector.x;
         movementY = movementVector.y;
         // mensaje para la consola del Unity
-        Debug.Log("Estoy en OnMove " + "\n El valor de X es de: " + movementX + " El valor de Y es de: " + movementY);
+        //Debug.Log("Estoy en OnMove " + "\n El valor de X es de: " + movementX + " El valor de Y es de: " + movementY);
     }
 
     private void FixedUpdate()
