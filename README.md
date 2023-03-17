@@ -2,14 +2,14 @@
 
 ### Tres interacciones:
 
-**Abre la compuerta**
+**Abre la compuerta:**
 
- file:///home/dam2a/Escritorio/gifCompuerta.gif
+![gifCompuerta](https://user-images.githubusercontent.com/91607146/225870147-6a43adfb-5be4-46b1-978d-72ac56644829.gif)
 
 Abrea la compuerta cuando recoges las 3 monedas del principio.  
 
 
-**Teletransporte**
+**Teletransporte:**
 
 ![gifTeletransporte](https://user-images.githubusercontent.com/91607146/225869568-def4d031-2232-4508-a9ba-5e7f350997ee.gif)
 
